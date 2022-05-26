@@ -48,3 +48,6 @@ app.*.map.json
 
 # Fvm
 .fvm
+
+# pubspec
+pubspec.lock
